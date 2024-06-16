@@ -29,7 +29,7 @@ function Hero() {
         </a>
       </div>
 
-      <ul className="hero-social-list">
+      {/* <ul className="hero-social-list">
         <li>
           <a href="#" className="hero-social-link">
             <IonIcon icon={logoFacebook} />
@@ -50,11 +50,11 @@ function Hero() {
             <div className="tooltip">Linkedin</div>
           </a>
         </li>
-      </ul>
+      </ul> */}
 
-      <a href="#stats" className="scroll-down">
-        Scroll
-      </a>
+      {/* <a href="#stats" className="scroll-down mr-10 pr-2">
+        <li>ravi8298922623@gmail.com</li>
+      </a> */}
     </section>
   );
 }

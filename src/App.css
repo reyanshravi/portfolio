@@ -1336,3 +1336,12 @@ textarea.input-field {
   .about-banner { max-width: 450px; }
 
 }
+
+.line{
+  position: relative;
+    margin-top: 40px;
+    height: 90px;
+    width: 1px;
+    background-color: #8892B0;
+    transform: rotate(90deg);
+}
